@@ -59,13 +59,13 @@ main()+97: call   0x555555555050 <_ZNSolsEPFRSoS_E@plt>
 ### Adresse relative de la première incrémentation de x :
 
 ```
-main()+35
+main()+35 -> = main()+0x23
 ```
 
-### Adresse absolu de la première incrémentation de x :
+### Adresse absolue de la première incrémentation de x :
 
 ```
-0x00005555555551ad + 0x35 = 0x00005555555551e2 
+0x00005555555551ad + 0x23 = 0x00005555555551d0 
 ```
 
 ## Question 3.6
@@ -73,14 +73,19 @@ main()+35
 ###  Adresse relative de la deuxième incrémentation de x :
 
 ```
-main()+39
+main()+39 -> = main()+0x27
 ```
 
-### Adresse absolu de la deuxième incrémentation de x :
+### Adresse absolue de la deuxième incrémentation de x :
 
 ```
-0x00005555555551ad + 0x39 = 0x00005555555551e6 
+0x00005555555551ad + 0x27 = 0x00005555555551d4 
 ```
 
 
-## Question 3.7
+## Question 3.7 
+
+```
+43 = 0x2b
+0x00005555555551ad + 0x28 = 0x00005555555551d8
+```
