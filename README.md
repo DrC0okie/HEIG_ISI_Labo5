@@ -48,3 +48,34 @@ main()+97: call   0x555555555050 <_ZNSolsEPFRSoS_E@plt>
 ```
 
 ## Question 3.5
+
+### Adresse de base du main :
+
+```
+0x00005555555551ad
+```
+
+
+### Adresse relative de la première incrémentation de x :
+
+```
+main()+35
+```
+
+### Adresse absolu de la première incrémentation de x :
+
+```
+0x00005555555551ad + 0x35 = 0x00005555555551e2 
+```
+
+###  Adresse relative de la deuxième incrémentation de x :
+
+```
+main()+39
+```
+
+### Adresse absolu de la deuxième incrémentation de x :
+
+```
+0x00005555555551ad + 0x39 = 0x00005555555551e6 
+```
