@@ -68,6 +68,8 @@ main()+35
 0x00005555555551ad + 0x35 = 0x00005555555551e2 
 ```
 
+## Question 3.6
+
 ###  Adresse relative de la deuxième incrémentation de x :
 
 ```
@@ -79,3 +81,6 @@ main()+39
 ```
 0x00005555555551ad + 0x39 = 0x00005555555551e6 
 ```
+
+
+## Question 3.7
