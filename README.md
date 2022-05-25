@@ -92,3 +92,5 @@ main()+39 -> = main()+0x27
 ## Question 3.15
 
 En accédant à la variablle classe[7] nous accédons enfaite à la variable grade[3], la variable n'étant pas initialisé sa valeur initial était 21845 et donc sa valeur après l'éxécution de l'instruction classe[7] est de 21855
+
+(ajouter schéma)
