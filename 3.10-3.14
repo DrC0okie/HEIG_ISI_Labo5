@@ -1,0 +1,13 @@
+pointeur 0x00007fffffffe4f0
+addr grade[0] 0x00007fffffffe4f0
+addr grade[1] 0x00007fffffffe4f4
+addr grade[2] 0x00007fffffffe4f8
+addr grade[3] 0x00007fffffffe4fc
+
+pointeur 0x00007fffffffe4e0
+addr classe[0] 0x00007fffffffe4e0
+addr classe[1] 0x00007fffffffe4e4
+addr classe[2] 0x00007fffffffe4e8
+addr classe[3] 0x00007fffffffe4ec
+
+
