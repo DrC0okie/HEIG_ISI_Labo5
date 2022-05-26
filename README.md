@@ -5,15 +5,15 @@ Attaques logicielles:  Manipulations Mémoire
 > x=2
 
 
-## Question 3.2:
+## Question 3.2
 instruction : add    DWORD PTR [rbp-0x4],0x1
 Adresse: main()+35
 
-## Question 3.3:
+## Question 3.3
 Instruction: add    DWORD PTR [rbp-0x4],0x1
 Adresse main()+39
 
-## Question 3.4:
+## Question 3.4
 Instruction complète: 
 
 cout << "x=" << x << endl;
