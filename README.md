@@ -105,4 +105,8 @@ L'instruction grade[6] +=4, nous permet d'écrire dans l'adresse de retour et d'
 
 ## Question 3.18
 
+Avant:
+0x5555555551aa
+Après:
+0x5555555551b3
 
