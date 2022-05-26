@@ -95,7 +95,14 @@ En accédant à la variablle classe[7] nous accédons enfaite à la variable gra
 
 (ajouter schéma)
 
-## Question 3.15
+## Question 3.16
 
 En mettant classe[5] += 10 nous somme censer écrire dans grade[1], sa valeur inital étant de 2 nous sommes censer avoir une valeur de 12 apres éxécution de notre instruction (2+10).
+
+## Question 3.17
+
+L'instruction grade[6] +=4, nous permet d'écrire dans l'adresse de retour et d'y ajouter 4, ainsi lors du retour de la fonction nous pouvons sauter la première instruction ++x.
+
+## Question 3.18
+
 
