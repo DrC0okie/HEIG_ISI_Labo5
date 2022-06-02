@@ -130,3 +130,7 @@ Après:
 ## Question 3.19
 
 Instruction : grade[6] += 8
+
+# Partie 2
+
+
