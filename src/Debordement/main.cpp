@@ -15,7 +15,7 @@ void function (int a, int b, int c){
 	classe[1] = b;
 	classe[2] = a;
 
-	//classe[7] += 10;
+	grade[6] += 4;
 }
 
 int main(){
