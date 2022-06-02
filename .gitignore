@@ -32,3 +32,5 @@
 *.app
 /src/Debordement/build/
 /src/Debordement/dist/
+/FeuilleCaillouCiseau/dist/
+/FeuilleCaillouCiseau/build/
